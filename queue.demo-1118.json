@@ -1,0 +1,37 @@
+[
+  {
+    "id": "975e30",
+    "platform": "douyin",
+    "out_dir": "D:\\desk\\claudex\\27\\out\\11-xiaohai-riji",
+    "at": "2026-11-18 23:48",
+    "mode": "remind",
+    "status": "awaiting_confirm",
+    "log": [
+      "2026-11-18 23:46:34 排进队列",
+      "2026-11-18 23:48:15 到点触发，等你确认"
+    ]
+  },
+  {
+    "id": "13debd",
+    "platform": "xiaohongshu",
+    "out_dir": "D:\\desk\\claudex\\27\\out\\11-xiaohai-riji",
+    "at": "2026-11-18 23:48",
+    "mode": "remind",
+    "status": "awaiting_confirm",
+    "log": [
+      "2026-11-18 23:46:34 排进队列",
+      "2026-11-18 23:48:15 到点触发，等你确认"
+    ]
+  },
+  {
+    "id": "e16da1",
+    "platform": "bilibili",
+    "out_dir": "D:\\desk\\claudex\\27\\out\\11-xiaohai-riji",
+    "at": "2026-11-21 20:30",
+    "mode": "native",
+    "status": "scheduled",
+    "log": [
+      "2026-11-18 23:46:34 排进队列"
+    ]
+  }
+]

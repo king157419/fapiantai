@@ -1,0 +1,24 @@
+.env
+out/
+queue.json
+.tmp/
+__pycache__/
+vendor/
+node_modules/
+.env.*
+!.env.example
+.venv/
+*.pem
+*.key
+# 生成的录屏、配音和成片
+remotion/public/*/
+remotion/out/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.m4a
+# 平台登录态
+*cookie*
+*.cookies.json

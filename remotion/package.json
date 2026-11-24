@@ -1,0 +1,11 @@
+{
+  "name": "fapiantai-remotion",
+  "private": true,
+  "scripts": {"studio": "remotion studio src/index.jsx"},
+  "dependencies": {
+    "remotion": "4.0.539",
+    "@remotion/cli": "4.0.539",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}
